@@ -6,16 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: TheBitterSweet.Me
+email: ronald.peic@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+  What is the purpose of this site? I have long considered logging some of my more intense musings 
+  for the purpose of recording significant events and adjusting to my poor memory. However, a more
+  potent idea had been realised: I should log events as often as necessary, only so as to paint my
+  decomposing humanity and the inevitability that is to be my untimely end. 
+  Also, not to forget the impetus of finally buying a domain name (12/11/16): Tablo's BloNotes 
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://thebittersweet.me" # the base hostname & protocol for your site
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  jiggaPls
 
 # Build settings
 markdown: kramdown
